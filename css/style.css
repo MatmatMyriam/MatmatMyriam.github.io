@@ -13,3 +13,17 @@
 	left: 33%;
 	top: 50%;
 }
+#dropdown2 {
+	width: 150px !important;
+}
+
+
+.logo{
+	    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 0;
+    white-space: nowrap;
+
+}
