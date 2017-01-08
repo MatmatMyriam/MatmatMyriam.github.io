@@ -1,0 +1,15 @@
+
+.intro h1 {margin-top: 0;}
+
+#profils{
+	position:absolute;
+	left: 25%;
+	top: 120%;
+	text-align:center;
+}
+
+#ats{
+	position:absolute;
+	left: 33%;
+	top: 50%;
+}
